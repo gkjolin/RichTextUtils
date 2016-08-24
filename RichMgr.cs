@@ -14,7 +14,8 @@ public class RichTextHelper : Component {
     private static readonly SpaceColor OtherHrefColor = SpaceColor.Blue;
     private static readonly SpaceColor MyNameHrefColor = SpaceColor.Green;
     private static readonly SpaceColor QuestionHrefColor = SpaceColor.Yellow;
-    private static string emojiRegex = null;
+    
+	private static string emojiRegex = null;
     private static string sysIconRegex = null;
     private static string allIocnRegex = null;
 
